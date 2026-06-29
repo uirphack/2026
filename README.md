@@ -1,4 +1,4 @@
-[submission_form_link]: asda
+[submission_form_link]: https://forms.gle/DZ1TRSvSHzUhXCM26
 [kickoff_presentation_link]: asdad
 
 # 2026 Research Park Hackathon
