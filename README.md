@@ -114,9 +114,31 @@ Judges will assess submissions by the following three pillars.
 
 ### Technical
 
+Judges will look for:
+
+- A live URL or deployed experience
+- A working core user flow
+- A clear Minimum Viable Product
+
 ### Data Security
 
+Judges will look for:
+
+- Thoughtful handling of user data, privacy, or permissions
+- No obvious exposed secrets, private data, or unsafe flows
+- User Roles created and scoped to appropriate information
+- Input validation, disclaimers, guardrails, authentication, rate limits, or error handling where relevant
+
 ### Execution, Demo Clarity
+
+Judges will look for:
+
+- Clear explanation of the user and problem
+- Strong walkthrough of the application
+- Focused feature choices
+- Ability to explain tradeoffs
+- Clear next steps if given more time
+- Honest discussion of limitations and why those choose to make this given the time constraint.
 
 # James's Tips
 
