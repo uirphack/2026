@@ -1,5 +1,5 @@
 [submission_form_link]: https://forms.gle/DZ1TRSvSHzUhXCM26
-[kickoff_presentation_link]: asdad
+[kickoff_presentation_link]: https://uillinoisedu-my.sharepoint.com/:p:/g/personal/bdgoode_illinois_edu/IQBl-T8LYsi1QIwCwGU9zJfVAUrtQar7ZsqOupXCR9wDhJU?rtime=NuOO-anW3kg
 
 # 2026 Research Park Hackathon
 
